@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "750039675961",
+    "firebase_url": "https://pscquestionpapers-20d91.firebaseio.com",
+    "project_id": "pscquestionpapers-20d91",
+    "storage_bucket": "pscquestionpapers-20d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750039675961:android:41ebe36968e391279909e8",
+        "android_client_info": {
+          "package_name": "com.astalavista.pscquestionpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750039675961-9v9i7q2fdu6ls1anb1b3nj6ga0l7d00h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAu8Pm_xrLZ_ePMhi303J-EJu3iRc9uPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750039675961-9v9i7q2fdu6ls1anb1b3nj6ga0l7d00h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

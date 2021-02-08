@@ -1,0 +1,20 @@
+<resources>
+
+<!--    <string name="APPID">c</string>-->
+<!--    <string name="BANNERID">c</string>-->
+<!--    <string name="INTERTITIAID">c</string>-->
+
+    <string name="APPID">ca-app-pub-5847774043131331~3917144573</string>
+    <string name="BANNERID">ca-app-pub-5847774043131331/9345279810</string>
+    <string name="INTERTITIAID">ca-app-pub-5847774043131331/6181868341</string>
+
+
+    <string name="app_name">PSC Question Papers</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favourite">Favourite</string>
+    <string name="recent_exams">Recent Exams</string>
+    <string name="syallabus">Syllabus</string>
+
+
+</resources>
